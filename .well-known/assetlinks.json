@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.khususk24_cmyk.twa",
+        "sha256_cert_fingerprints": ["FD:21:8C:24:14:3C:96:3E:07:50:2B:FC:CA:5E:89:CC:66:63:8D:18:A0:83:29:53:CF:E9:02:F6:C7:49:6D:F0"]
+      }
+    }]
